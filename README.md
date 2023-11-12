@@ -1,2 +1,3 @@
-# tika-k8s
+# Tika Server Micro service based
+
 Tika+Python+K8s
